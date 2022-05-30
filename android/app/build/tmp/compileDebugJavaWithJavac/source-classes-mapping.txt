@@ -1,0 +1,14 @@
+com/bedmal/ReactNativeFlipper.java
+ com.bedmal.ReactNativeFlipper
+ com.bedmal.ReactNativeFlipper$1
+ com.bedmal.ReactNativeFlipper$2
+ com.bedmal.ReactNativeFlipper$2$1
+com/bedmal/MainApplication.java
+ com.bedmal.MainApplication
+ com.bedmal.MainApplication$1
+com/bedmal/BuildConfig.java
+ com.bedmal.BuildConfig
+com/bedmal/MainActivity.java
+ com.bedmal.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

@@ -1,0 +1,1 @@
+export const main_endpoint = 'https://api.bedmal.com/api/'

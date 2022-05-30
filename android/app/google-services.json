@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965221465995",
+    "project_id": "bedmal-d8def",
+    "storage_bucket": "bedmal-d8def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965221465995:android:a2d46198ef5a299779398e",
+        "android_client_info": {
+          "package_name": "com.bedmal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965221465995-ubmlkggpfq90dnpm1tjjnp9c9piokdcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnSLH8bd7Mwti89L1N5_4-8vjMpzI6hoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965221465995-ubmlkggpfq90dnpm1tjjnp9c9piokdcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

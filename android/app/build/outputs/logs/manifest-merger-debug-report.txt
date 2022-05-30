@@ -1,0 +1,974 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/bef9c85e809f1eaa6c72249e918a7e62/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f72802290ae69c2473662576a63a3ab7/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5c6cd6ef4fef5e60e166b9de3b94e7ab/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-screens] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-43:12
+MERGED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-google-signin_google-signin] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-exit-app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-exit-app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/751e83c95f3799b494e5bdfac8766388/jetified-react-native-0.63.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3cdc1a5fa472c5d1b286336f4a310882/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c936672b075121b7cbdf0247b1053546/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/478bb1cc9632e0b833ebddc4cc794457/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/santapa/.gradle/caches/transforms-2/files-2.1/61f4c297ab5ab1b1261cab3c4b452d7b/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95174d2f78202d111520d9886f17cc26/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/056214e00923484d2db393f5bc911963/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/01958a4b984e27f12cecee50226068f5/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/849520da3b93694210ac8b8c152bdbdb/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9c4721814df2b00dd24557b7d15db4f8/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/02628d5c14ce7a167f2800006d5ee8cd/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/07f9bd1eca06b70fbe8b5f91d6f76d5f/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7cc7c2f8ec24c8528d55aeb766bbf411/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fb18a08800d6e4e2a70cd247e96a58f/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fff7be5c5130b6cbbd466f3650309b9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a9a2543e9b781eea0290e6a095507c30/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/8294d998021a5b6ff90308aedc81da56/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0c08b1baf30cde2e15d5eb3530e69910/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3634d285347cdbe7e9551e8347c5d1d1/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d0ce79a2f792f717657d2530d34d8e4e/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0becaaffa8f1e01fcb2f4ad280772480/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/becd7064db882b3dc9b4952010c27960/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed619da53356501430c6a6be0be54bfc/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86671829cc551ba5dce50aedd5579c4e/jetified-ucrop-2.2.5-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dead6e129b28a6e189a1b862ef173174/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/544c9dbd3fc67590a50530c41d400c0f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7b86863c6ee0d03ed376afcc0916e633/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/90dd9c05ad0dabb16bffd48126bbd854/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2012a913f72beb5fd12e9e1114d362a1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/27cf0b6686537a71cf3e54310cfd0db4/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b13069b16d4e2ee1f89bc2d50242f4a3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e844982b09b6ad74be86b6221f652584/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/11bfd2d39575f10a090775b5a9bbe947/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b92ad4ce08b59b7f58f1d639be47edf9/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7f97af1182ec3d3fa3c33cc1a926ffea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86e61a0ac8f8cdeb8470d90984b353f9/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/63b87090ee5aa6e74d073b64bc90bc6e/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a840a72e9ba55a0e2bcf99fc99a319c/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64bf813551ffe8b16f8657d225e17cc4/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/69d0bdb14b191cee5d69494b54050773/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/093df4fc2e5424e6743d1ed41637379e/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/fc21590422aded3f431a1046e12ed655/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c31d6ec1ace94da1810222113337d3d7/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/6e443c08dde3cf651dd09f4daaa34a0d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/75c25b984888c59edb0d18e2a3027565/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1c54c47790d4b1977a646fc21ee32fa8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/361149bc4f5847e7b6f84aaf0c581781/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dbf56b6075f293e983182d6e3ce2529a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a68e0207f5895915f7ad5b7ce7608e9/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aa673fd97cd88b14db0e2dd271904248/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95bb7bc706ad8051f4ef7ace4b9a2662/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c6a2de215bd3c45553fea1dcbe81b979/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1a5abb54d3447dd7a2f0443c20cc9681/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed0abde40935862036d5d927d23d2ca7/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b570e5509b9fb569d701a9a21f1dce8e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b474ec34753f4e011b31adecbe4bc981/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a851e961eb032c4fa21e402b46301200/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e337ccf74f41bf641e13055496ad2b25/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ff805c21c65fcf246d71c957af7b4c20/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0ea5693972c60812cb8e496e7c6aca14/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f3d43d6e4eac240b84a00f715e5c3163/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a668cd13f2713286223ca1fb18f27873/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/813f56c4fa7a2251ff81eef51668f751/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ad2c433fbbc09099f52889d64638e12e/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/13cd53b0a4f2005e9bf741ddfcc57601/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/627a3c588ec9b7cf17c0d115a7397491/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aad711f62b187cc4e4de168b09c60ba3/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64d84005ecb3fe509b7ddf66ab964a64/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2ed393b6422363d21cbec8d7c3f8faa5/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0662df069889ce05a39989f49307a35a/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/710a2673a85e428baf84badac276a336/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1682b8e2ca952cdd4da3b7517fa8e965/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3a5ffbb663166fef8cc63c43c9c37c92/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/292b97836a83a09a5e4c8a5c2f8dc4a4/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ebf9c78a6ab29c448f2e7c584e6e1408/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e4934c970107ecd9a024f77c1bc4d708/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2c6b8fe8e90f5bee484bb04066a597fc/jetified-mapbox-android-core-2.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d9757038f1ec87476ec307d5d1c301db/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:5:7-68
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:5:24-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:6:20-76
+application
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-25:19
+MERGED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-25:19
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
+MERGED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/751e83c95f3799b494e5bdfac8766388/jetified-react-native-0.63.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/751e83c95f3799b494e5bdfac8766388/jetified-react-native-0.63.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed619da53356501430c6a6be0be54bfc/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed619da53356501430c6a6be0be54bfc/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dead6e129b28a6e189a1b862ef173174/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dead6e129b28a6e189a1b862ef173174/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/11bfd2d39575f10a090775b5a9bbe947/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/11bfd2d39575f10a090775b5a9bbe947/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b92ad4ce08b59b7f58f1d639be47edf9/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b92ad4ce08b59b7f58f1d639be47edf9/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7f97af1182ec3d3fa3c33cc1a926ffea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7f97af1182ec3d3fa3c33cc1a926ffea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86e61a0ac8f8cdeb8470d90984b353f9/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86e61a0ac8f8cdeb8470d90984b353f9/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/63b87090ee5aa6e74d073b64bc90bc6e/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/63b87090ee5aa6e74d073b64bc90bc6e/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64bf813551ffe8b16f8657d225e17cc4/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64bf813551ffe8b16f8657d225e17cc4/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e337ccf74f41bf641e13055496ad2b25/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e337ccf74f41bf641e13055496ad2b25/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3a5ffbb663166fef8cc63c43c9c37c92/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3a5ffbb663166fef8cc63c43c9c37c92/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e4934c970107ecd9a024f77c1bc4d708/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e4934c970107ecd9a024f77c1bc4d708/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:12:7-46
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:12:7-46
+	tools:targetApi
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.bedmal.MainActivity
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/bef9c85e809f1eaa6c72249e918a7e62/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/bef9c85e809f1eaa6c72249e918a7e62/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f72802290ae69c2473662576a63a3ab7/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f72802290ae69c2473662576a63a3ab7/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5c6cd6ef4fef5e60e166b9de3b94e7ab/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5c6cd6ef4fef5e60e166b9de3b94e7ab/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-exit-app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-exit-app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-exit-app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-exit-app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/751e83c95f3799b494e5bdfac8766388/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/751e83c95f3799b494e5bdfac8766388/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3cdc1a5fa472c5d1b286336f4a310882/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3cdc1a5fa472c5d1b286336f4a310882/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c936672b075121b7cbdf0247b1053546/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c936672b075121b7cbdf0247b1053546/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/478bb1cc9632e0b833ebddc4cc794457/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/478bb1cc9632e0b833ebddc4cc794457/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/santapa/.gradle/caches/transforms-2/files-2.1/61f4c297ab5ab1b1261cab3c4b452d7b/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/santapa/.gradle/caches/transforms-2/files-2.1/61f4c297ab5ab1b1261cab3c4b452d7b/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95174d2f78202d111520d9886f17cc26/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95174d2f78202d111520d9886f17cc26/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/056214e00923484d2db393f5bc911963/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/056214e00923484d2db393f5bc911963/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/01958a4b984e27f12cecee50226068f5/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/01958a4b984e27f12cecee50226068f5/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/849520da3b93694210ac8b8c152bdbdb/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/849520da3b93694210ac8b8c152bdbdb/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9c4721814df2b00dd24557b7d15db4f8/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9c4721814df2b00dd24557b7d15db4f8/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/02628d5c14ce7a167f2800006d5ee8cd/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/02628d5c14ce7a167f2800006d5ee8cd/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/07f9bd1eca06b70fbe8b5f91d6f76d5f/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/07f9bd1eca06b70fbe8b5f91d6f76d5f/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7cc7c2f8ec24c8528d55aeb766bbf411/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7cc7c2f8ec24c8528d55aeb766bbf411/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fb18a08800d6e4e2a70cd247e96a58f/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fb18a08800d6e4e2a70cd247e96a58f/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fff7be5c5130b6cbbd466f3650309b9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3fff7be5c5130b6cbbd466f3650309b9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a9a2543e9b781eea0290e6a095507c30/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a9a2543e9b781eea0290e6a095507c30/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/8294d998021a5b6ff90308aedc81da56/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/8294d998021a5b6ff90308aedc81da56/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0c08b1baf30cde2e15d5eb3530e69910/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0c08b1baf30cde2e15d5eb3530e69910/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3634d285347cdbe7e9551e8347c5d1d1/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3634d285347cdbe7e9551e8347c5d1d1/jetified-mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d0ce79a2f792f717657d2530d34d8e4e/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d0ce79a2f792f717657d2530d34d8e4e/jetified-mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0becaaffa8f1e01fcb2f4ad280772480/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0becaaffa8f1e01fcb2f4ad280772480/jetified-mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/becd7064db882b3dc9b4952010c27960/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/becd7064db882b3dc9b4952010c27960/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed619da53356501430c6a6be0be54bfc/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed619da53356501430c6a6be0be54bfc/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86671829cc551ba5dce50aedd5579c4e/jetified-ucrop-2.2.5-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86671829cc551ba5dce50aedd5579c4e/jetified-ucrop-2.2.5-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dead6e129b28a6e189a1b862ef173174/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dead6e129b28a6e189a1b862ef173174/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/544c9dbd3fc67590a50530c41d400c0f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/544c9dbd3fc67590a50530c41d400c0f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7b86863c6ee0d03ed376afcc0916e633/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7b86863c6ee0d03ed376afcc0916e633/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/90dd9c05ad0dabb16bffd48126bbd854/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/90dd9c05ad0dabb16bffd48126bbd854/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2012a913f72beb5fd12e9e1114d362a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2012a913f72beb5fd12e9e1114d362a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/27cf0b6686537a71cf3e54310cfd0db4/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/27cf0b6686537a71cf3e54310cfd0db4/jetified-mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b13069b16d4e2ee1f89bc2d50242f4a3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b13069b16d4e2ee1f89bc2d50242f4a3/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e844982b09b6ad74be86b6221f652584/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e844982b09b6ad74be86b6221f652584/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/11bfd2d39575f10a090775b5a9bbe947/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/11bfd2d39575f10a090775b5a9bbe947/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b92ad4ce08b59b7f58f1d639be47edf9/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b92ad4ce08b59b7f58f1d639be47edf9/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7f97af1182ec3d3fa3c33cc1a926ffea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7f97af1182ec3d3fa3c33cc1a926ffea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86e61a0ac8f8cdeb8470d90984b353f9/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/86e61a0ac8f8cdeb8470d90984b353f9/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/63b87090ee5aa6e74d073b64bc90bc6e/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/63b87090ee5aa6e74d073b64bc90bc6e/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a840a72e9ba55a0e2bcf99fc99a319c/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a840a72e9ba55a0e2bcf99fc99a319c/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64bf813551ffe8b16f8657d225e17cc4/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64bf813551ffe8b16f8657d225e17cc4/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/69d0bdb14b191cee5d69494b54050773/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/69d0bdb14b191cee5d69494b54050773/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/093df4fc2e5424e6743d1ed41637379e/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/093df4fc2e5424e6743d1ed41637379e/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/fc21590422aded3f431a1046e12ed655/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/fc21590422aded3f431a1046e12ed655/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c31d6ec1ace94da1810222113337d3d7/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c31d6ec1ace94da1810222113337d3d7/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/6e443c08dde3cf651dd09f4daaa34a0d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/6e443c08dde3cf651dd09f4daaa34a0d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/75c25b984888c59edb0d18e2a3027565/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/75c25b984888c59edb0d18e2a3027565/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1c54c47790d4b1977a646fc21ee32fa8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1c54c47790d4b1977a646fc21ee32fa8/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/361149bc4f5847e7b6f84aaf0c581781/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/361149bc4f5847e7b6f84aaf0c581781/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dbf56b6075f293e983182d6e3ce2529a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/dbf56b6075f293e983182d6e3ce2529a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a68e0207f5895915f7ad5b7ce7608e9/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a68e0207f5895915f7ad5b7ce7608e9/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aa673fd97cd88b14db0e2dd271904248/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aa673fd97cd88b14db0e2dd271904248/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95bb7bc706ad8051f4ef7ace4b9a2662/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/95bb7bc706ad8051f4ef7ace4b9a2662/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c6a2de215bd3c45553fea1dcbe81b979/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/c6a2de215bd3c45553fea1dcbe81b979/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1a5abb54d3447dd7a2f0443c20cc9681/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1a5abb54d3447dd7a2f0443c20cc9681/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed0abde40935862036d5d927d23d2ca7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ed0abde40935862036d5d927d23d2ca7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b570e5509b9fb569d701a9a21f1dce8e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b570e5509b9fb569d701a9a21f1dce8e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b474ec34753f4e011b31adecbe4bc981/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/b474ec34753f4e011b31adecbe4bc981/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a851e961eb032c4fa21e402b46301200/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a851e961eb032c4fa21e402b46301200/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/014b359e341daff93af253f08df28feb/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e337ccf74f41bf641e13055496ad2b25/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e337ccf74f41bf641e13055496ad2b25/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ff805c21c65fcf246d71c957af7b4c20/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ff805c21c65fcf246d71c957af7b4c20/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0ea5693972c60812cb8e496e7c6aca14/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0ea5693972c60812cb8e496e7c6aca14/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f3d43d6e4eac240b84a00f715e5c3163/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f3d43d6e4eac240b84a00f715e5c3163/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a668cd13f2713286223ca1fb18f27873/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a668cd13f2713286223ca1fb18f27873/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/813f56c4fa7a2251ff81eef51668f751/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/813f56c4fa7a2251ff81eef51668f751/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ad2c433fbbc09099f52889d64638e12e/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ad2c433fbbc09099f52889d64638e12e/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/13cd53b0a4f2005e9bf741ddfcc57601/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/13cd53b0a4f2005e9bf741ddfcc57601/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/627a3c588ec9b7cf17c0d115a7397491/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/627a3c588ec9b7cf17c0d115a7397491/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aad711f62b187cc4e4de168b09c60ba3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/aad711f62b187cc4e4de168b09c60ba3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64d84005ecb3fe509b7ddf66ab964a64/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/64d84005ecb3fe509b7ddf66ab964a64/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2ed393b6422363d21cbec8d7c3f8faa5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2ed393b6422363d21cbec8d7c3f8faa5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0662df069889ce05a39989f49307a35a/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/0662df069889ce05a39989f49307a35a/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/710a2673a85e428baf84badac276a336/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/710a2673a85e428baf84badac276a336/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1682b8e2ca952cdd4da3b7517fa8e965/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/1682b8e2ca952cdd4da3b7517fa8e965/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3a5ffbb663166fef8cc63c43c9c37c92/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/santapa/.gradle/caches/transforms-2/files-2.1/3a5ffbb663166fef8cc63c43c9c37c92/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/292b97836a83a09a5e4c8a5c2f8dc4a4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/292b97836a83a09a5e4c8a5c2f8dc4a4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ebf9c78a6ab29c448f2e7c584e6e1408/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/ebf9c78a6ab29c448f2e7c584e6e1408/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e4934c970107ecd9a024f77c1bc4d708/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/e4934c970107ecd9a024f77c1bc4d708/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2c6b8fe8e90f5bee484bb04066a597fc/jetified-mapbox-android-core-2.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2c6b8fe8e90f5bee484bb04066a597fc/jetified-mapbox-android-core-2.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d9757038f1ec87476ec307d5d1c301db/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d9757038f1ec87476ec307d5d1c301db/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/047beeb86c22c735a78241410a789955/jetified-flipper-0.37.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-24:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2c6b8fe8e90f5bee484bb04066a597fc/jetified-mapbox-android-core-2.0.0/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2c6b8fe8e90f5bee484bb04066a597fc/jetified-mapbox-android-core-2.0.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:12:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-21:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-20:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-34:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-37:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-40:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:react-native-mapbox-gl_maps] /Users/santapa/Desktop/Development/PA/bedmal/bedmal-App-master/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/santapa/.gradle/caches/transforms-2/files-2.1/5d0c02137def317ec9ec00ac1a34404c/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d5b32fe0404f88ce66f75f72860468ef/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/7aba14992b80fd3e714a1ee8cc31fb09/jetified-mapbox-android-telemetry-5.0.0/AndroidManifest.xml:25:13-92
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/78dd772fd5e37d586ab2fcef8892fe5f/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/42b389c1fc27dfdd6ad5288be858e76d/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/00ffb8238c05a74ac509ed6ea9567683/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/2a3fab7141d3cb78c440d7161ce05aa8/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/4f02b06ec7cba8c1722e40e628418420/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/f9198320f09de4846742af6868fce508/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/9a245688c59c8c1b750423d4d45cd06f/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/be390c8d30d1a6af270ece0f76eb6f05/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/a20663a3e63190362a03a79fdaa3bde1/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/santapa/.gradle/caches/transforms-2/files-2.1/507d91560776b3f355b0a4d49ab7302c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/santapa/.gradle/caches/transforms-2/files-2.1/d917263d4f6e0941c24dfb09aa1955b6/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86

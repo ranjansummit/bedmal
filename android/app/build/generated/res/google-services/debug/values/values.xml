@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">965221465995-ubmlkggpfq90dnpm1tjjnp9c9piokdcr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">965221465995</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnSLH8bd7Mwti89L1N5_4-8vjMpzI6hoI</string>
+    <string name="google_app_id" translatable="false">1:965221465995:android:a2d46198ef5a299779398e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnSLH8bd7Mwti89L1N5_4-8vjMpzI6hoI</string>
+    <string name="google_storage_bucket" translatable="false">bedmal-d8def.appspot.com</string>
+    <string name="project_id" translatable="false">bedmal-d8def</string>
+</resources>
