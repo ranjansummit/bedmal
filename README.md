@@ -1,0 +1,1 @@
+# bedmal-mobile-app
