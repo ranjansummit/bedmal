@@ -191,7 +191,7 @@ class signup extends Component {
                   placeholder=" Phone number"
                   placeholderTextColor="silver"
                   onChangeText={text => {
-                    _names = text;
+                    _phone = text;
                   }}
                   maxLength={50}
                   style={styles.textInput3}
