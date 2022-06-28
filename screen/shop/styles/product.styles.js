@@ -472,7 +472,7 @@ export const styles = StyleSheet.create({
   },
   modalTextInput: {
     borderWidth: 1,
-    borderColor: '#707070',
+    borderColor: '#C3BCBC',
     color: '#C3BCBC',
     width: '100%',
     height: _defz.height / 15,
